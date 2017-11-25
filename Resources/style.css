@@ -43,6 +43,7 @@ body {
 
 #mission {
     height: 700px;
+    width: 1200px;
     background-image: url('../Resources/Images/img-mission-background.jpg');
     opacity: 100%;
     padding-top: 70px;
@@ -88,6 +89,7 @@ h2 {
 #locations {
     background-image: url('../Resources/Images/img-locations-background.jpg');
     height: 500px;
+    width: 1200px;
     padding-top: 70px;
 }
 
@@ -110,4 +112,14 @@ h2 {
     padding: 10px;
     margin: 5px 20px;
   }
-  
+
+  #contact {
+    height: 200px;
+
+  }
+
+  #footer {
+    height: 20px;
+    text-align: left;
+    padding-left: 20px;
+  }
